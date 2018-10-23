@@ -98,3 +98,12 @@ Fox Bot is a bot designed for the music sharing website, [plug.dj](https://plug.
 
 </table>
 
+## Commands
+A list of all commands that can be used with Fox Bot can be located [here](https://foxdenedm.com/commands)
+
+## Licensing and Usage
+Fox Bot was created from scratch and is continuously modified with new features. You are NOT permitted to use any of Fox Bot's code for your own use. Violators will be contacted and asked to remove their code. Fox Bot is designed, created, and is modified by Foxifly.
+
+## Inquiries
+If you have any questions about Fox Bot's operation or functionality, please reach out to me directly through [email](mailto:laciastko@gmail.com). 
+
