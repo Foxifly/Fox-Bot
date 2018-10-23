@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "username": "Foxifly",
+      "userID": 3439856,
+      "role": "host"
+    },
+    {
+      "username": "FincelyFox",
+      "userID": 3476433,
+      "role": "cohost"
+    },
+    {
+      "username": "Dottieliver",
+      "userID": 4105708,
+      "role": "cohost"
+    },
+    {
+      "username": "SheeX",
+      "userID": 29527012,
+      "role": "cohost"
+    },
+    {
+      "username": "Personal Assistant",
+      "userID": 33490559,
+      "role": "cohost"
+    },
+    {
+      "username": "Foxful Eye",
+      "userID": 29877667,
+      "role": "cohost"
+    },
+    {
+      "username": "M | Foxifly",
+      "userID": 29134529,
+      "role": "cohost"
+    },
+    {
+      "username": "FoxBot",
+      "userID": 3609549,
+      "role": "cohost"
+    }
+  ]
+}

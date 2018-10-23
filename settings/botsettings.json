@@ -1,0 +1,34 @@
+{
+  "settings": [
+    {
+      "plugEmail": "PLUGDJEMAIL",
+      "plugPassword": "PLUGDJPASSWORD",
+      "version": "2.0.5",
+      "roomName": "PLUGDJROOMSLUG",
+      "userID": 3609549,
+      "toggleAutowoot": true,
+      "toggleAutoskip": true,
+      "toggleTimeguard": true,
+      "toggleLottery": false,
+      "toggleAds": false,
+      "toggleWelcomes": false,
+      "toggleEvent": false,
+      "toggleGenreGuard": true,
+      "toggleMotds": false,
+      "toggleUrban": false,
+      "toggleCleverBot": true,
+      "toggleVoteSystem": false,
+      "toggleHistory": false,
+      "cooldownCmd": 1,
+      "cooldownDC": 30,
+      "translatorKey": "MSTRANSLATORKEY",
+      "scKey": "SOUNDCLOUDKEY",
+      "cleverbotKey": "CLEVERBOTKEY",
+      "imgFlipUsername": "IMGFLIPUSERNAME",
+      "imgFlipPassword": "IMGFLIPPASSWORD",
+      "trelloKey": "TRELLOAPIKEY",
+      "trelloToken": "TRELLOTOKEN",
+      "eventString": "No events are scheduled. But, we are beginning to plan our 10k user event!"
+    }
+  ]
+}

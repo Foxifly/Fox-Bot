@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "username": "HorizonFox",
+      "userID": 3440297,
+      "role": "manager"
+    },
+    {
+      "username": "Jako",
+      "userID": 4104847,
+      "role": "manager"
+    },
+    {
+      "username": "Leeorifly",
+      "userID": 4794749,
+      "role": "mananger"
+    },
+    {
+      "username": "Nate",
+      "userID": 3655265,
+      "role": "mananger"
+    },
+    {
+      "username": "WaryMcWarFace",
+      "userID": 27289493,
+      "role": "mananger"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "foxbot",
+  "version": "2.0.0",
+  "description": "Plug.dj bot for Fox Den | EDM created by Foxifly.",
+  "main": "testbot.js",
+  "scripts": {
+    "test": "!ping"
+  },
+  "author": "Foxifly (Lindsay A Ciastko)",
+  "license": "ISC",
+  "dependencies": {
+    "cleverbot": "^1.0.1",
+    "ftp": "^0.3.10",
+    "giphy-api": "^1.2.7",
+    "imgflipper": "^1.0.1",
+    "lowdb": "^1.0.0",
+    "mstranslator": "^3.0.0",
+    "node-soundcloud": "0.0.6",
+    "plugapi": "^5.1.0",
+    "pm2": "^3.0.4",
+    "socket.io-client": "^2.1.1",
+    "trello": "^0.9.0",
+    "unescape": "^1.0.1",
+    "urban-dictionary": "^2.1.2"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "username": "Nate",
+      "userID": 3655265,
+      "role": "arcticfox"
+    },
+    {
+      "username": "Amibe",
+      "userID": 4070111,
+      "role": "arcticfox"
+    },
+    {
+      "username": "WaryMcWarFace",
+      "userID": 27289493,
+      "role": "arcticfox"
+    },
+    {
+      "username": "FincelyFox",
+      "userID": 3476433,
+      "role": "arcticfox"
+    }
+  ]
+}

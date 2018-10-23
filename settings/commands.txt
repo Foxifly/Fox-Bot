@@ -1,0 +1,137 @@
+Cohost and Host Commands
+!eval
+!version [string]
+!reload
+!shutdown
+!db add [database] [username] [userid] [role]
+!db remove [database] [userid]
+!stafflookup [userID]
+
+Manager Commands
+!cooldown cmd [seconds]
+!cooldown dc [minutes]
+!swap @user1 @user2
+!clearwl
+!troll @user
+!oldmute @user
+!oldunmute @user
+!motd
+!gstatus
+!entry
+!clearchat
+!check id/cid [song ID/CID]
+!userlookup [userID]
+!check id [ID]
+!check cid [CID]
+!userlookup [userID]
+
+
+Bouncer Commands
+!dclookup
+!skip
+!skiptro
+!lockskip [history/sound/request/theme]
+!blacklist [reason]
+!blacklist [id/cid] [songID/songCID]
+!users
+!userid @user
+!mute
+!unmute [@user/userID]
+!ban @user [length]
+!ban id [userID] [length]
+!unban userID
+!kick @user
+!lock
+!unlock
+!move @user [position]
+!remove @user
+!add @user
+!uptime
+!say [msg]
+!wlban @user
+!settings
+!toggle [welcomes/urban/ads/autoskip/autowoot/timeguard]
+!translate [msg]
+!translate [finnish/german/dutch/french/spanish/portuguese]
+!giveaway [duration] [theme]
+!voteinfo
+
+
+User Commands
+!successkid
+!sandwich
+!pasta
+!enter
+!lottery
+!vote
+!8ball [question]
+!trump
+!fox
+!cat
+!hue
+!thonk
+!ping
+!pinggif
+!emotes
+!commands
+!facebook
+!twitter
+!contact
+!source
+!bl
+!discord
+!website
+!staffapp
+!producer
+!rope
+!rules
+!promoter
+!sm
+!plot
+!ba
+!event
+!lothelp
+!fastfood
+!hug @user
+!candy @user
+!shot
+!urban [word]
+!gif [topic]
+!link
+
+Donor Commands
+ > ALL
+!yuno
+!facepalm
+!dropzone
+!aww
+!dealwithit
+!nope
+!cookie
+!newspaper @user
+!yuno  [msg]
+!facepalm [msg]
+
+> RED +
+!everywhere
+!braceyourself
+!taco
+!burger
+!burritobowl
+!love
+
+
+> ARCTIC +
+!spongemock
+!avatar
+!oprah
+!wesmart
+!notsimply
+!satisfy
+!avatar
+!stupidfox
+!pizza
+
+> SILVER +
+!inmyday
+!wtf

@@ -1,0 +1,24 @@
+{
+  "versions": [
+    {
+      "version": "2.0.1",
+      "notes": "Added a version notes tracker."
+    },
+    {
+      "version": "2.0.2",
+      "notes": "Updated the database commands to monitor the stafftrack.json database."
+    },
+    {
+      "version": "2.0.3",
+      "notes": "Fixed !troll - added blank command protection"
+    },
+    {
+      "version": "2.0.4",
+      "notes": "Fixed !oldmute and !oldunmute so it ignores blank strings"
+    },
+    {
+      "version": "2.0.5",
+      "notes": "Added a perm ban feature when a user is playing extremely inappropriate songs."
+    }
+  ]
+}

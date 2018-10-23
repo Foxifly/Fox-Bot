@@ -1,0 +1,11 @@
+{
+    "cmd": false,
+    "shot": false,
+    "lottery": false,
+    "lottery2": false,
+    "lottery3": true,
+    "history": false,
+    "ad": false,
+    "motd": false,
+    "event": false
+}

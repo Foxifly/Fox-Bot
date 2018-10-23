@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "username": "Fluted",
+      "userID": 4329931,
+      "role": "bouncer"
+    },
+    {
+      "username": "kyle",
+      "userID": 5976628,
+      "role": "bouncer"
+    },
+    {
+      "username": "MilkChocolate",
+      "userID": 3866934,
+      "role": "bouncer"
+    },
+    {
+      "username": "Nekonomable",
+      "userID": 5818653,
+      "role": "bouncer"
+    },
+    {
+      "username": "patoxoro",
+      "userID": 4343261,
+      "role": "bouncer"
+    },
+    {
+      "username": "Retrove",
+      "userID": 31884530,
+      "role": "bouncer"
+    }
+  ]
+}
