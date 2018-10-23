@@ -1,8 +1,18 @@
 # Fox Bot
 ##### Lindsay Ciastko
 
+## Table of Contents
+* [Introduction](https://github.com/Foxifly/Fox-Bot#introduction)
+* [Commands](https://github.com/Foxifly/Fox-Bot#commands)
+* [Dependencies](https://github.com/Foxifly/Fox-Bot#dependencies)
+* [Licensing and Usage](https://github.com/Foxifly/Fox-Bot#licensing-and-usage)
+* [Other Inquiries](https://github.com/Foxifly/Fox-Bot#other-inquiries)
+
 ## Introduction
 Fox Bot is a bot designed for the music sharing website, [plug.dj](https://plug.dj). It is designed for a specific 'music room' on plug.dj known as Fox Den | EDM. The link to Fox Den is located [here](https://plug.dj/foxdenedm). The purpose of posting this code onto Github is for prospective employers to explore the work I have completed with Node.JS and analyze how much I've worked with developing Fox Bot. There is no need to clone or download this repository. A fully functioning Fox Bot with all API Keys and credential is running in [Fox Den EDM](https://plug.dj/foxdenedm).
+
+## Commands
+A list of all commands that can be used with Fox Bot can be located [here](https://foxdenedm.com/commands)
 
 ## Dependencies
 <table>
@@ -98,12 +108,9 @@ Fox Bot is a bot designed for the music sharing website, [plug.dj](https://plug.
 
 </table>
 
-## Commands
-A list of all commands that can be used with Fox Bot can be located [here](https://foxdenedm.com/commands)
-
 ## Licensing and Usage
 Fox Bot was created from scratch and is continuously modified with new features. You are NOT permitted to use any of Fox Bot's code for your own use. Violators will be contacted and asked to remove their code. Fox Bot is designed, created, and is modified by Foxifly.
 
-## Inquiries
+## Other Inquiries
 If you have any questions about Fox Bot's operation or functionality, please reach out to me directly through [email](mailto:laciastko@gmail.com). 
 
