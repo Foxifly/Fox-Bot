@@ -5,6 +5,7 @@
 * [Introduction](https://github.com/Foxifly/Fox-Bot#introduction)
 * [Commands](https://github.com/Foxifly/Fox-Bot#commands)
 * [Dependencies](https://github.com/Foxifly/Fox-Bot#dependencies)
+* [For Employers](https://github.com/Foxifly/Fox-Bot#for-employers)
 * [Licensing and Usage](https://github.com/Foxifly/Fox-Bot#licensing-and-usage)
 * [Other Inquiries](https://github.com/Foxifly/Fox-Bot#other-inquiries)
 
@@ -107,6 +108,9 @@ A list of all commands that can be used with Fox Bot can be located [here](https
 </tr>
 
 </table>
+
+## For Employers
+If you are a prospective employer and are looking to clone and run this repository locally it is possible. After you've cloned this repository you will need to add the required plug.dj logins, room slug (the information after the plug.dj/) and API Keys on the settings.json page. Then you will run `npm install` to install all of the dependencies. Once everything is installed, you will use `node foxbot` (assuming you have Node on your machine) to launch Fox Bot into the Plug.dj room of your choice. This Plug.dj account needs to have Manager or higher permissions in the Plug.dj room
 
 ## Licensing and Usage
 Fox Bot was created from scratch and is continuously modified with new features. You are NOT permitted to use any of Fox Bot's code for your own use. Violators will be contacted and asked to remove their code. Fox Bot is designed, created, and is modified by Foxifly.
